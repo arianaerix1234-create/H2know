@@ -46,7 +46,7 @@ Pentru a menține codul curat, organizați folderele astfel:
 Pentru a rula codul pe dispozitivul vostru, urmați acești pași:
 
 1. Clonați acest repository.
-2. Deschideți folderul `hardware/` în **Arduino IDE**.
+2. Deschideți fisierul `hardware.ino` în **Arduino IDE**.
 3. Instalați librăria `Firebase_Arduino_Client` (sau librăria pe care ați folosit-o pentru Firebase).
 4. Introduceți credențialele voastre în cod:
    ```cpp
