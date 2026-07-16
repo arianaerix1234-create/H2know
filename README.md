@@ -1,5 +1,4 @@
 # 💧 H2Know (A.W.A.R.E. - Automatic Water Analysis & Real-time Evaluation)
-# 💧 H2Know – Smart Water Quality Monitoring & Hydration Ecosystem
 
 > **An innovative Arduino-based water monitoring solution designed to analyze safety in real-time and optimize personal daily hydration.**
 
