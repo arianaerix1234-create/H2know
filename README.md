@@ -1,10 +1,10 @@
-# 💧 H2Know (A.W.A.R.E. - Automatic Water Analysis & Real-time Evaluation)
+# H2Know (A.W.A.R.E. - Automatic Water Analysis & Real-time Evaluation)
 
 > **An innovative Arduino-based water monitoring solution designed to analyze safety in real-time and optimize personal daily hydration.**
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **H2Know** is an end-to-end ecosystem that addresses two critical health and environmental challenges: the lack of immediate, accessible data regarding water potability and the difficulty of maintaining a scientifically calculated daily hydration goal.
 
@@ -20,17 +20,17 @@ The project seamlessly integrates a **physical hardware device** equipped with c
 3. **The Mobile App:** Displays live water metrics, issues instant safety verdicts (Potable vs. Non-Potable), maps water quality data, and features an advanced daily hydration calculator based on dynamic user metrics.
 
 ---
-## 🚀 Key Features
-* 📊 **Real-Time Monitoring:** Instant analysis of critical water parameters: pH, turbidity, temperature, and TDS.
-* 🗺️ **Interactive Map:** Visual tracking of potable, moderate, or hazardous/contaminated zones, hosted on Netlify.
-* 🤖 **Virtual Assistant (Aqualoo AI):** Integrated smart chatbot designed to answer water quality and environmental questions.
-* 🗣️ **Voice Commands:** Speech-to-Text functionality for natural user interaction.
-* 🚨 **SOS Emergency Button:** Rapid hazard reporting system (illegal pollution, floods) with support for on-field photo uploads.
-* 📈 **Hydration Calculator & Tracking:** Daily, weekly, and monthly water consumption monitoring.
+##  Key Features
+*  **Real-Time Monitoring:** Instant analysis of critical water parameters: pH, turbidity, temperature, and TDS.
+* **Interactive Map:** Visual tracking of potable, moderate, or hazardous/contaminated zones, hosted on Netlify.
+*  **Virtual Assistant (Aqualoo AI):** Integrated smart chatbot designed to answer water quality and environmental questions.
+*  **Voice Commands:** Speech-to-Text functionality for natural user interaction.
+*  **SOS Emergency Button:** Rapid hazard reporting system (illegal pollution, floods) with support for on-field photo uploads.
+*  **Hydration Calculator & Tracking:** Daily, weekly, and monthly water consumption monitoring.
 
 ---
 
-## 🛠️ System Architecture
+##  System Architecture
 
 The H2Know ecosystem bridges hardware components and cloud software solutions seamlessly:
 
@@ -46,7 +46,7 @@ The H2Know ecosystem bridges hardware components and cloud software solutions se
 
 ---
 
-## 📦 Repository Structure
+##  Repository Structure
 To maintain clean and organized code, files are structured as follows:
 
 ├── hardware/               # Source code (.ino) for the Arduino microcontroller
@@ -56,7 +56,7 @@ To maintain clean and organized code, files are structured as follows:
 
 ---
 
-## 📱 Mobile Application (FlutterFlow)
+##  Mobile Application (FlutterFlow)
 
 The complete mobile application project, built using FlutterFlow low-code, can be viewed and cloned from the following link:
 🔗 [Open H2Know on FlutterFlow](https://x.thunkable.com/copy/d21add1611a7cd191678a147615b7fd8)
@@ -64,7 +64,7 @@ The complete mobile application project, built using FlutterFlow low-code, can b
 
 ---
 
-## 🔧 Installation Guide (Hardware)
+##  Installation Guide (Hardware)
 
 To run the source code on your local device, please follow these steps:
 
